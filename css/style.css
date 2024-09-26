@@ -483,27 +483,27 @@ button.active {
 }
 
 .bar .html::before {
-  width: 95%;
+  width: 99%;
 }
 
 .bar .css::before {
-  width: 79%;
+  width: 90%;
 }
 
 .bar .figma::before {
-  width: 95%;
+  width: 98%;
 }
 
 .bar .react::before {
-  width: 35%;
+  width: 85%;
 }
 
 .bar .php::before {
-  width: 70%;
+  width: 82%;
 }
 
 .bar .js::before {
-  width: 57%;
+  width: 89%;
 }
 
 .skillImg {
