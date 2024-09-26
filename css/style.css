@@ -602,3 +602,17 @@ button.active {
     transform: translateX(-50%);
   }
 }
+/* 
+@media (min-width: 320px) {
+  body {
+    width: 100%;
+  }
+
+  .ocean .wave {
+    margin-top: 90%;
+  }
+
+  .about {
+    margin-top: 5%;
+  }
+} */
